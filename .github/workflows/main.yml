@@ -1,4 +1,4 @@
-name: github-action-pratice
+name: github-action-practice
 
 on:
   workflow_dispatch:
