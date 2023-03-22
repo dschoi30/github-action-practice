@@ -5,7 +5,7 @@ on:
   
 env:
   S3_BUCKET_NAME: market-collection-s3
-  PROJECT_NAME: github-action-practice
+  PROJECT_NAME: github
   
 jobs:
   build:
